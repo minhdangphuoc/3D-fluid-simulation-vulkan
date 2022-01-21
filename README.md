@@ -1,11 +1,14 @@
 # 3D-fluid-simulation-vulkan
 
-# Build
-``` c++
-    // <Root Folder>/src
-    make        // Build the project
-    make test   // Run the program
+# Roadmap
+```diff
+- 1. VulkanRenderer setup
+- 2. Swapchain
+- 3. Graphic Pipeline
+- 4. Framebuffering
+- 5. Triangle rendering
 ```
 
 ## References
-[Vulkan Tutorial](https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/)
+[Udemy](https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/)
+[Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
