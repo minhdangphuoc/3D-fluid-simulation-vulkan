@@ -11,4 +11,7 @@
 
 ## References
 [Udemy](https://www.udemy.com/course/learn-the-vulkan-api-with-cpp/)
+
 [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
+
+[SPH FLUID SIMULATION](https://tommccracken.net/sph-fluid-simulation/)
